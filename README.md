@@ -1,1 +1,124 @@
-# politica-privacidade-cv
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Política de Privacidade</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      line-height: 1.6;
+      margin: 0;
+      padding: 0;
+      background: #f5f5f5;
+      color: #333;
+    }
+    .container {
+      max-width: 900px;
+      margin: 40px auto;
+      background: #fff;
+      padding: 30px;
+      border-radius: 10px;
+      box-shadow: 0 0 10px rgba(0,0,0,0.1);
+    }
+    h1, h2 {
+      color: #222;
+    }
+    h1 {
+      text-align: center;
+      margin-bottom: 20px;
+    }
+    h2 {
+      margin-top: 25px;
+    }
+    p, li {
+      font-size: 16px;
+    }
+    ul {
+      padding-left: 20px;
+    }
+    .footer {
+      margin-top: 40px;
+      font-size: 14px;
+      color: #777;
+      text-align: center;
+    }
+  </style>
+</head>
+<body>
+
+<div class="container">
+  <h1>Política de Privacidade</h1>
+  <p><strong>Última atualização:</strong> 24 de abril de 2026</p>
+
+  <h2>1. Introdução</h2>
+  <p>
+    Esta Política de Privacidade descreve como o aplicativo de conversão de vídeos ("Aplicativo")
+    trata as informações dos usuários. O Aplicativo tem como única finalidade converter arquivos
+    de vídeo do formato <strong>.avi para .mp4</strong>.
+  </p>
+  <p>Ao utilizar o Aplicativo, você concorda com os termos desta Política.</p>
+
+  <h2>2. Coleta de Informações</h2>
+  <p>O Aplicativo <strong>não coleta dados pessoais identificáveis</strong> dos usuários.</p>
+  <ul>
+    <li>Não solicitamos nome, e-mail ou telefone</li>
+    <li>Não criamos contas de usuário</li>
+    <li>Não coletamos dados sensíveis</li>
+  </ul>
+
+  <h3>Arquivos de vídeo</h3>
+  <ul>
+    <li>Utilizados exclusivamente para conversão</li>
+    <li>Não são armazenados permanentemente</li>
+    <li>Não são compartilhados com terceiros</li>
+  </ul>
+
+  <h2>3. Uso das Informações</h2>
+  <p>Os arquivos fornecidos são utilizados apenas para converter vídeos de <strong>.avi para .mp4</strong>.</p>
+
+  <h2>4. Armazenamento de Dados</h2>
+  <ul>
+    <li>Os arquivos podem ser processados temporariamente durante a conversão</li>
+    <li>Após a conversão, são automaticamente excluídos</li>
+  </ul>
+
+  <h2>5. Compartilhamento de Dados</h2>
+  <ul>
+    <li>Não compartilhamos dados com terceiros</li>
+    <li>Não vendemos informações</li>
+    <li>Não utilizamos ferramentas de rastreamento</li>
+  </ul>
+
+  <h2>6. Segurança</h2>
+  <p>
+    Adotamos medidas razoáveis para proteger os arquivos durante o processamento.
+    No entanto, nenhum sistema é totalmente seguro.
+  </p>
+
+  <h2>7. Permissões</h2>
+  <ul>
+    <li>Acesso a arquivos de mídia (para selecionar o vídeo .avi)</li>
+    <li>Acesso ao armazenamento (para salvar o .mp4 convertido)</li>
+  </ul>
+
+  <h2>8. Direitos do Usuário</h2>
+  <p>
+    Como não coletamos dados pessoais, não há dados armazenados para consulta ou exclusão.
+    O usuário mantém total controle sobre seus arquivos.
+  </p>
+
+  <h2>9. Alterações nesta Política</h2>
+  <p>Esta Política pode ser atualizada periodicamente.</p>
+
+  <h2>10. Contato</h2>
+  <p>Se tiver dúvidas, entre em contato:</p>
+  <p><strong>Email:</strong> apps.daniel.amorim@gmail.com</p>
+
+  <div class="footer">
+    © 2026 - Vídeo Converter AVI para MP4
+  </div>
+</div>
+
+</body>
+</html>
